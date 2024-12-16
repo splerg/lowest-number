@@ -1,0 +1,32 @@
+*{font-family: sans-serif;}
+
+#game-main {
+    width: 98%;
+    height: 582px;
+    margin: 15px auto;
+    margin-bottom: 4px;
+}
+
+#rolls-main {
+    width: 650px;
+    height: 98%;
+    margin: 26px auto;
+    background-color: #f0f0f0;
+    border-radius: 25px;
+    box-shadow: 0 0 2px 2px rgb(196, 196, 196);
+}
+
+#current-lowest-header {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#current-lowest-txt {
+    margin: 5px auto;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#roll-btn {
+    margin: 0 auto;
+}
