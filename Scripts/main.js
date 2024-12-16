@@ -1,6 +1,6 @@
 // Game Vars
 let rolls = parseInt(localStorage.getItem('rolls'));
-let currentNumber = parseFloat(localStorage.getItem('currentNum'));
+let currentNumber = parseFloat(localStorage.getItem('currentNum')) || 1;
 let rolledNumber = null;
 
 // System Vars
